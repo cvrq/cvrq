@@ -1,6 +1,6 @@
 <p align="center"><img src="./assets/banner.svg" width="100%" alt="Enzo Carvalho — PHP, JavaScript, MySQL e Tailwind CSS" /></p>
 
-<p align="center"><img src="./assets/about.svg" width="100%" alt="Sou Enzo Carvalho. Estudante da Informatica na Etec de Itanhaem Transformando ideias em projetos e evoluindo a cada linha de código." /></p>
+<p align="center"><img src="./assets/about.svg" width="100%" alt="Sou Enzo Carvalho. Estudante de Informatica na Etec de Itanhaem" /></p>
 
 <p align="center"><img src="./assets/stack.svg" width="100%" alt="Tecnologias: PHP, JavaScript, MySQL e Tailwind CSS" /></p>
 
