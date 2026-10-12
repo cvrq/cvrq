@@ -1,15 +1,29 @@
-<p align="center"><img src="./assets/banner.svg" width="100%" alt="Enzo Carvalho — PHP, JavaScript, MySQL e Tailwind CSS" /></p>
-
-<p align="center"><img src="./assets/about.svg" width="100%" alt="Sou Enzo Carvalho. Estudante de Informatica na Etec de Itanhaem" /></p>
-
-<p align="center"><img src="./assets/stack.svg" width="100%" alt="Tecnologias: PHP, JavaScript, MySQL e Tailwind CSS" /></p>
-
-<p align="center"><a href="https://github.com/cvrq?tab=repositories"><strong>Explorar meus projetos ↗</strong></a></p>
+<p align="center">
+  <img src="./assets/banner.svg?v=2" width="100%" alt="Enzo Carvalho — PHP, JavaScript, MySQL e Tailwind CSS" />
+</p>
 
 <p align="center">
-  <a href="https://x.com/crvlxz"><img src="./assets/social-x.svg" width="45%" alt="Twitter / X — @crvlxz" /></a>
+  <img src="./assets/about.svg?v=2" width="100%" alt="Estudante de Informatica na Etec de Itanhaem" />
+</p>
+
+<p align="center">
+  <img src="./assets/stack.svg?v=2" width="100%" alt="Tecnologias: PHP, JavaScript, MySQL e Tailwind CSS" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/cvrq?tab=repositories">
+    <strong>Explorar meus projetos ↗</strong>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://x.com/crvlxz">
+    <img src="./assets/social-x.svg" width="45%" alt="Twitter / X — @crvlxz" />
+  </a>
   &nbsp;
-  <a href="https://www.instagram.com/carvaalhooxz_/"><img src="./assets/social-instagram.svg" width="45%" alt="Instagram — @carvaalhooxz_" /></a>
+  <a href="https://www.instagram.com/carvaalhooxz_/">
+    <img src="./assets/social-instagram.svg" width="45%" alt="Instagram — @carvaalhooxz_" />
+  </a>
 </p>
 
 ### Contribuições
